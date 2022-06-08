@@ -1,4 +1,3 @@
 # diceroll
 
-dice roll challenge 
-testing using javascript to edit elements to create a dice roll competetion
+javascript challenge too edit html elements to create a dice roll competetion
