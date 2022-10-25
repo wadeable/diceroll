@@ -1,3 +1,3 @@
 # diceroll
 
-javascript challenge too edit html elements to create a dice roll competetion
+javascript challenge to edit html elements to create a dice roll competetion
